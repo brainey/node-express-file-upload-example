@@ -1,0 +1,16 @@
+{
+  "name": "file-upload-example",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "PORT=3010 node src/main.js"
+  },
+  "author": "Bill Rainey",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
